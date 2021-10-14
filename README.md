@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-STAGE-NUMBER-3
+# project-c23-template
